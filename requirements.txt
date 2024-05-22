@@ -1,0 +1,8 @@
+jupyter
+numpy
+pylint
+qiskit
+matplotlib
+qiskit_ibm_runtime
+pylatexenc
+jupyterlab
